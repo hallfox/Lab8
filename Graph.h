@@ -5,7 +5,7 @@
 
 class Graph{
 private:
-	std::vector<Vertex> vertecies;
+	std::vector<Vertex> vert;
 public:
 
 };
